@@ -21,19 +21,6 @@
 
 ---
 
-### :man_technologist: About Me :
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Philippines.
-
-- :telescope: I’m a Software Developer and focusing to frontend and backend for building web applications.
-
-- :seedling: Exploring Web Development and Cyber Security
-
-- :zap: Hoobbies: Movies,Drama,Series
-
-- :mailbox:How to reach me:
-  - email : fvl00551@gmail.com
-  - Linkedin: https://www.linkedin.com/in/fritz-victor-legayada-fvl
-
 ---
 ### :hammer_and_wrench: Languages and Tools :
 <div id="Icons>
