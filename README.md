@@ -4,7 +4,6 @@
 
 
 <div id="badges" align="center">
-  <a href=" www.linkedin.com/in/fritz-victor-legayada-FVL">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="your-youtube-URL">
@@ -19,9 +18,7 @@
   <img src="https://komarev.com/ghpvc/?username=User09L&style=flat-square&color=blue" alt=""/>
 </div>
 
----
 
----
 ### :hammer_and_wrench: Languages and Tools :
 <div id="Icons>
   <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
