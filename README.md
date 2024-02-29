@@ -2,13 +2,10 @@
   <img src="https://media.giphy.com/media/CTX0ivSQbI78A/giphy.gif" width="500"/>
 </div>
 <h1 align="center">Hi 👋, I'm User09L</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=user09l&label=Profile%20views&color=0e75b6&style=flat" alt="user09l" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=user09l" alt="user09l" /></a> </p>
 
 - 🌱 I’m currently Further learning **ASP.NET CORE, ReactJS,WordPress**
 
-- 💬 Ask me about **C# & Python**
+- 💬 Ask me about **Software & Web Development**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
